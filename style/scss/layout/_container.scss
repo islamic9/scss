@@ -1,0 +1,27 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ul ,ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+image{
+    vertical-align: middle;
+    object-fit: cover;
+}
+.container{
+    max-width: 1310px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
